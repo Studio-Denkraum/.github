@@ -3,7 +3,7 @@
 ### Who are we? 🧙
 We are a indie game dev studio made up of a group of friends. We are currently working on our first game project using [Godot](https://godotengine.org/).
 
-#### Our [Wiki](https://studio-denkraum.github.io)
+#### Our [Wiki](https://studio-denkraum.github.io) 🌈
 <!--
 
 **Here are some ideas to get you started:**
