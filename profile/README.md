@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to Studio Denkraum 👋
+
+# Who are we? 🧙
+We are a indie game dev studio made up of a group of friends. We are currently working on our first game project using Godot.
 
 <!--
 
