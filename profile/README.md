@@ -1,7 +1,7 @@
 ## Welcome to Studio Denkraum 👋
 
 ### Who are we? 🧙
-We are an independent game devoplement studio made up of a group of friends. We all met during our time in university and are currently working on our first game project using the [Godot Game Engnine](https://godotengine.org/). 
+We are an independent game devoplement studio made up of a group of friends. We all met during our time in university and are currently working on our first game project using the [Godot Game Engine](https://godotengine.org/). 
 
 🍿 You can expect to see our finished game next year !
 
